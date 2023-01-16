@@ -34,6 +34,8 @@ development,software engineering, agile software development methodology to buil
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
 
 ## 💻 Portfolio/ My Work:
+![REST API](https://github.com/aknafu12/REST_API)
+<!--![|](https://github.com/aknafu12/REST_API)
 updating...
 <!--![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 <!--![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
