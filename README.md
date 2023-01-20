@@ -34,6 +34,12 @@ development,software engineering, agile software development methodology to buil
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
 
 ## 💻 Portfolio/ My Work:
+![login](https://user-images.githubusercontent.com/119469190/213680694-6becfc28-eab0-4798-b1fe-e5b49c06af16.png)
+![dshboards](https://user-images.githubusercontent.com/119469190/213682771-633122f8-eaa3-4e2c-8aee-67b25e0fa3da.png)
+![report](https://user-images.githubusercontent.com/119469190/213680714-2954b3f0-6dc9-41ea-a9db-b93899142acb.png)
+![shedule](https://user-images.githubusercontent.com/119469190/213680725-f02fd2e0-36e2-4808-b9b1-67ba06f6b8fe.png)
+![department](https://user-images.githubusercontent.com/119469190/213680739-89b05f43-0343-43a9-94c5-dd81cb13effa.png)
+
 ![REST API](https://github.com/aknafu12/REST_API)
 <!--![|](https://github.com/aknafu12/REST_API)
 updating...
