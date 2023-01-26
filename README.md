@@ -2,13 +2,13 @@
 
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
-I am self-motivated and hard-working IT engineer having a decent knowledge and technical
+I am  IT engineer having an excellent technical
 skills on back-end(python) and front-end (React.JS), networking, full-life-scale of software
 development,software engineering, agile software development methodology to build and enhance applications
 
 👩‍💻 I'm currently working on... Backend + Frontend
 
-🧠 I'm currently learning...DevOPs 
+🧠 I'm currently learning... 
 
 ## 🛠 Languages and tools:
 
