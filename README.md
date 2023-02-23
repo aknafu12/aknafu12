@@ -6,9 +6,9 @@ I am  IT engineer having an excellent technical
 skills on back-end(python) and front-end (React.JS), networking, full-life-scale of software
 development,software engineering, agile software development methodology to build and enhance applications
 
-👩‍💻 I'm currently working on... Backend + Frontend
+👩‍💻 I'm currently working on... ReactJS Developer
 
-🧠 I'm currently learning... 
+🧠 I'm currently learning... MERN Stack
 
 ## 🛠 Languages and tools:
 
@@ -34,7 +34,6 @@ development,software engineering, agile software development methodology to buil
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
 
 ## 💻 Portfolio/ My Work:
-![login](https://user-images.githubusercontent.com/119469190/213680694-6becfc28-eab0-4798-b1fe-e5b49c06af16.png)
 ![dshboards](https://user-images.githubusercontent.com/119469190/213682771-633122f8-eaa3-4e2c-8aee-67b25e0fa3da.png)
 
 
