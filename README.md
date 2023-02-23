@@ -3,10 +3,10 @@
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
 I am  IT engineer having an excellent technical
-skills on back-end(python) and front-end (React.JS), networking, full-life-scale of software
+skills on back-end and front-end , networking, full-life-scale of software
 development,software engineering, agile software development methodology to build and enhance applications
 
-👩‍💻 I'm currently working on... ReactJS Developer
+👩‍💻 I'm currently working on... ReactJS Developer + Python Developer
 
 🧠 I'm currently learning... MERN Stack
 
