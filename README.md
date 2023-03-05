@@ -9,7 +9,7 @@ development,software engineering, agile software development methodology to buil
 👩‍💻 I'm currently working on... ReactJS Developer + Python Developer
 
 🧠 I'm currently learning... MERN Stack
-
+[resume](https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)
 ## 🛠 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
