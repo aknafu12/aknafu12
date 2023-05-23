@@ -1,11 +1,11 @@
 
 
-<!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
+<!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)-->
 ## 🚀 About Me:
 I am an IT professional with excellent technical skills in back-end and front-end development, networking, full software development lifecycle, software engineering, and agile development methodologies, I have the ability to build and enhance applications. 
 #### Python 
 ### MERN stack.
-<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)
+<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)-->
 ## 🛠 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
