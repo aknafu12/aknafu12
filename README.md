@@ -2,7 +2,7 @@
 
 <!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)-->
 ## 🚀 About Me:
-I am an IT professional with excellent technical skills in back-end and front-end development, networking, full software development lifecycle, software engineering, and agile development methodologies, I have the ability to build and enhance applications. 
+I am an IT professional with excellent technical skills in back-end and front-end development, full software development lifecycle, software engineering, and agile development methodologies, I have the ability to build and enhance applications. 
 #### Python 
 ### MERN stack.
 <!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)-->
