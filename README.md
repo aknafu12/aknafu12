@@ -30,7 +30,6 @@ I am an IT professional with excellent technical skills in back-end and front-en
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
 
 ## 💻 Portfolio/ My Work:
-![dshboards](https://user-images.githubusercontent.com/119469190/213682771-633122f8-eaa3-4e2c-8aee-67b25e0fa3da.png)
 
 
 ![REST API](https://github.com/aknafu12/REST_API)
