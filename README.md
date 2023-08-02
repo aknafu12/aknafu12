@@ -32,7 +32,7 @@ I am an IT professional with excellent technical skills in back-end and front-en
 ## 💻 Portfolio/ My Work:
 
 
-![REST API](https://github.com/aknafu12/REST_API)
+![Note-taking RESTful API_web_App](https://github.com/aknafu12/REST_API)
 <!--![post](https://user-images.githubusercontent.com/119469190/212346970-6185837a-406f-4c4b-9f99-31d4383e69bf.PNG)
 <!--![report](https://user-images.githubusercontent.com/119469190/213680714-2954b3f0-6dc9-41ea-a9db-b93899142acb.png)
 <!--![shedule](https://user-images.githubusercontent.com/119469190/213680725-f02fd2e0-36e2-4808-b9b1-67ba06f6b8fe.png)
