@@ -1,6 +1,6 @@
 
 
-<!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)-->
+<!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
 I am an IT professional with excellent technical skills in back-end and front-end development, full software development lifecycle, software engineering, and agile development methodologies, I have the ability to build and enhance applications. 
 #### wordPress 
