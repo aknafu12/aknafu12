@@ -29,7 +29,7 @@ I am an IT professional with excellent technical skills in back-end and front-en
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Quick overview:
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
-
+-->
 ## 💻 Portfolio/ My Work:
 
 
