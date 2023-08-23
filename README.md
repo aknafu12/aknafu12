@@ -32,15 +32,15 @@ I am an IT professional with excellent technical skills in back-end and front-en
 -->
 ## 💻 Portfolio/ My Work:
 
-##Django
+## Django
 ![Note-taking RESTful API_web_App](https://github.com/aknafu12/REST_API)
 ___
-##Node.js
+## Node.js
 ![backend-ecommerce](https://github.com/aknafu12/mern-app-eCommerce/tree/master/backend)
 
 ___
-##WordPress
-![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoilio1.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo22.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG)![]([https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo22.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfolio3.PNG))
+## WordPress
+![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoilio1.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo22.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG)![]([https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo22.PNG)![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfolio3.PNG))
 
 
 <!--![post](https://user-images.githubusercontent.com/119469190/212346970-6185837a-406f-4c4b-9f99-31d4383e69bf.PNG)
