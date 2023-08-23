@@ -37,6 +37,7 @@ I am an IT professional with excellent technical skills in back-end and front-en
 
 ![backend-ecommerce](https://github.com/aknafu12/mern-app-eCommerce/tree/master/backend)
 
+(https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfilo2.PNG)
 ![GYM-Wordpress][https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoilio1.PNG](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoilio1.PNG))
 
 <!--![post](https://user-images.githubusercontent.com/119469190/212346970-6185837a-406f-4c4b-9f99-31d4383e69bf.PNG)
