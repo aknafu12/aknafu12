@@ -6,7 +6,7 @@ I am an IT professional with excellent technical skills in back-end and front-en
 #### wordPress 
 #### Python 
 ### Node.JS .
-<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)-->
+<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)
 ## 🛠 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
