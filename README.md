@@ -1,12 +1,13 @@
 
 
-<!--![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
+![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
 I am an IT professional with excellent technical skills in back-end and front-end development, full software development lifecycle, software engineering, and agile development methodologies, I have the ability to build and enhance applications. 
-#### wordPress 
 #### Python 
-### Node.JS .
-(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf)
+### Node.JS 
+#### wordPress 
+
+<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf) -->
 ## 🛠 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,17 +32,20 @@ I am an IT professional with excellent technical skills in back-end and front-en
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aknafu12&theme=tokyonight&show_icons=true)
 
 ## 💻 Portfolio/ My Work:
-
-## Django
+___
+## Chatbot [Data science]
+![](https://github.com/aknafu12/end-to-end-chatbot-python/blob/main/chatbot_hi.PNG)\
+___
+## Django [backend]
 ![Note-taking RESTful API_web_App](https://github.com/aknafu12/REST_API)
 ___
-## Node.js
+## MERN stack
 ![backend-ecommerce](https://github.com/aknafu12/mern-app-eCommerce/tree/master/backend)
 
 ___
 ## WordPress
 ![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoili1.PNG)
--->
+
 <!--![post](https://user-images.githubusercontent.com/119469190/212346970-6185837a-406f-4c4b-9f99-31d4383e69bf.PNG)
 <!--![report](https://user-images.githubusercontent.com/119469190/213680714-2954b3f0-6dc9-41ea-a9db-b93899142acb.png)
 <!--![shedule](https://user-images.githubusercontent.com/119469190/213680725-f02fd2e0-36e2-4808-b9b1-67ba06f6b8fe.png)
