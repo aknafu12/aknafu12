@@ -37,12 +37,14 @@ ___
 ![](https://github.com/aknafu12/end-to-end-chatbot-python/blob/main/chatbot_hi.PNG)\
 ___
 ## Django [backend]
+
 ![Note-taking RESTful API_web_App](https://github.com/aknafu12/REST_API)
 ___
 ## MERN stack
-![backend-ecommerce](https://github.com/aknafu12/mern-app-eCommerce/tree/master/backend)
 
-___
+![ecommerce](https://github.com/aknafu12/mern-app-eCommerce/tree/master/backend)
+
+<!--___
 ## WordPress
 ![](https://github.com/aknafu12/WORDPRESS_repo/blob/main/portfoili1.PNG)
 
