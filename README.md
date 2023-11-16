@@ -2,7 +2,7 @@
 
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
- am an accomplished IT professional with a passion for creating innovative and impactful software solutions. I possess a comprehensive skillset encompassing back-end and front-end development, full software development lifecycle (SDLC), software engineering principles, and agile development methodologies. My expertise enables me to effectively build, enhance, and maintain software applications that meet the evolving needs of organizations and users.
+I am an accomplished IT professional with a passion for creating innovative and impactful software solutions. I possess a comprehensive skillset encompassing back-end and front-end development, full software development lifecycle (SDLC), software engineering principles, and agile development methodologies. My expertise enables me to effectively build, enhance, and maintain software applications that meet the evolving needs of organizations and users.
 
 ### Technical Skills
 
@@ -38,7 +38,7 @@ Contributed to the development of a mobile application for a healthcare provider
 
 I am confident in my ability to make significant contributions to your organization and help you achieve your software development goals. I am eager to collaborate with talented individuals and learn from new experiences.
 
-Please feel free to contact me to discuss my qualifications and how I can add value to your team.#### Python : [coding, Django]
+Please feel free to contact me to discuss my qualifications and how I can add value to your team.
  
 
 <!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf) -->
