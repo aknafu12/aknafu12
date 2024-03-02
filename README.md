@@ -8,7 +8,7 @@ I am an accomplished IT professional with a passion for creating innovative and 
 
 __Back-End Development:__ Proficient in Python, Django, and Node.js for developing scalable and secure server-side applications.
 
-__Front-End Development:__ Expertise in HTML, CSS, and JavaScript frameworks like React and Angular to create user-centric and responsive web interfaces.
+__Front-End Development:__ Expertise in HTML, CSS, and JavaScript library like React.js  to create user-centric and responsive web interfaces.
 
 __Full Software Development Lifecycle (SDLC):__ Thorough understanding of the SDLC phases, from project planning and requirements gathering to implementation, testing, and deployment.
 
