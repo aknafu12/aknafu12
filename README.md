@@ -1,4 +1,4 @@
-
+<!--
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
 I am an accomplished IT professional with a passion for creating innovative and impactful software solutions. I possess a comprehensive skillset encompassing back-end and front-end development, full software development lifecycle (SDLC), software engineering principles, and agile development methodologies. My expertise enables me to effectively build, enhance, and maintain software applications that meet the evolving needs of organizations and users.
