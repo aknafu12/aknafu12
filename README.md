@@ -25,7 +25,7 @@ Developed a real-time data visualization dashboard for a financial institution, 
 Architected and implemented a microservices-based API gateway for a leading tech company, enhancing system scalability and maintainability.
 
 Contributed to the development of a mobile application for a healthcare provider, improving patient engagement and access to medical information.
--->
+
 ### Personal Attributes
 
 * Passionate about technology and committed to continuous learning.
