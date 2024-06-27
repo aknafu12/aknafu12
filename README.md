@@ -1,4 +1,3 @@
-<!--
 
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aknafu12&left_color=green&right_color=red)
 ## 🚀 About Me:
@@ -41,7 +40,7 @@ I am confident in my ability to make significant contributions to your organizat
 Please feel free to contact me to discuss my qualifications and how I can add value to your team.
  
 
-<!--(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf) -->
+(https://github.com/aknafu12/aknafu12/blob/main/Kahsay_Gebrekidan_4D_CV.pdf) 
 ## 🛠 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
